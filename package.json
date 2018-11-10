@@ -1,0 +1,9 @@
+{
+  "name": "infinity-media",
+  "version": "0.0.0",
+  "description": "Infinity media stuffs",
+  "main": "index.js",
+  "repository": "git@github.com:bukinoshita/infinity-media.git",
+  "author": "bukinoshita <bukinoshita@gmail.com>",
+  "license": "MIT"
+}
