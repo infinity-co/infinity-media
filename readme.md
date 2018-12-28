@@ -1,6 +1,6 @@
-# infinity service
+# infinity media
 
-> Infinity service for Infinity app
+> Infinity media for Infinity app
 
 ## Related
 
