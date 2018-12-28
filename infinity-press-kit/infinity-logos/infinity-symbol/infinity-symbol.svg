@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="356px" height="356px" viewBox="0 0 356 356" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="bg" fill="#000000" x="0" y="0" width="356" height="356"></rect>
+            <g id="logo" transform="translate(72.000000, 72.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M106,212 C47.4578165,212 0,164.542183 0,106 C0,47.4578165 47.4578165,0 106,0 C164.542183,0 212,47.4578165 212,106 C212,164.542183 164.542183,212 106,212 Z M106,190.8 C152.833747,190.8 190.8,152.833747 190.8,106 C190.8,59.1662532 152.833747,21.2 106,21.2 C59.1662532,21.2 21.2,59.1662532 21.2,106 C21.2,152.833747 59.1662532,190.8 106,190.8 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
