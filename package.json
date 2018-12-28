@@ -3,7 +3,14 @@
   "version": "0.0.0",
   "description": "Infinity media stuffs",
   "main": "index.js",
-  "repository": "git@github.com:bukinoshita/infinity-media.git",
+  "repository": "infinity-co/infinity-media",
   "author": "bukinoshita <bukinoshita@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "push": "sketch-json",
+    "pull": "sketch-json --json"
+  },
+  "devDependencies": {
+    "sketch-json-cli": "^0.0.3"
+  }
 }
