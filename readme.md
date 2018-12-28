@@ -1,6 +1,6 @@
-# authentication service
+# infinity service
 
-> Authentication service for Infinity app
+> Infinity service for Infinity app
 
 ## Related
 
